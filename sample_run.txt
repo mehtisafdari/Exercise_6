@@ -1,0 +1,20 @@
+Dekker PASS FCFS: P1 -> P2 -> P3 -> P4
+{'method': 'Dekker', 'process': 'P1', 'fcfs_order': 1, 'burst': 0.06, 'waiting': 0, 'turnaround': 0.0601}
+{'method': 'Dekker', 'process': 'P2', 'fcfs_order': 2, 'burst': 0.06, 'waiting': 0.0004, 'turnaround': 0.1205}
+{'method': 'Dekker', 'process': 'P3', 'fcfs_order': 3, 'burst': 0.06, 'waiting': 0.0006, 'turnaround': 0.1807}
+{'method': 'Dekker', 'process': 'P4', 'fcfs_order': 4, 'burst': 0.06, 'waiting': 0.0008, 'turnaround': 0.241}
+Peterson PASS FCFS: P1 -> P2 -> P3 -> P4
+{'method': 'Peterson', 'process': 'P1', 'fcfs_order': 1, 'burst': 0.06, 'waiting': 0, 'turnaround': 0.0601}
+{'method': 'Peterson', 'process': 'P2', 'fcfs_order': 2, 'burst': 0.06, 'waiting': 0.0003, 'turnaround': 0.1204}
+{'method': 'Peterson', 'process': 'P3', 'fcfs_order': 3, 'burst': 0.06, 'waiting': 0.0005, 'turnaround': 0.1806}
+{'method': 'Peterson', 'process': 'P4', 'fcfs_order': 4, 'burst': 0.06, 'waiting': 0.0008, 'turnaround': 0.2409}
+Semaphore PASS FCFS: P1 -> P2 -> P3 -> P4
+{'method': 'Semaphore', 'process': 'P1', 'fcfs_order': 1, 'burst': 0.06, 'waiting': 0, 'turnaround': 0.0602}
+{'method': 'Semaphore', 'process': 'P2', 'fcfs_order': 2, 'burst': 0.06, 'waiting': 0.0004, 'turnaround': 0.1205}
+{'method': 'Semaphore', 'process': 'P3', 'fcfs_order': 3, 'burst': 0.06, 'waiting': 0.0007, 'turnaround': 0.1808}
+{'method': 'Semaphore', 'process': 'P4', 'fcfs_order': 4, 'burst': 0.06, 'waiting': 0.0009, 'turnaround': 0.241}
+Monitor PASS FCFS: P1 -> P2 -> P3 -> P4
+{'method': 'Monitor', 'process': 'P1', 'fcfs_order': 1, 'burst': 0.06, 'waiting': 0, 'turnaround': 0.0601}
+{'method': 'Monitor', 'process': 'P2', 'fcfs_order': 2, 'burst': 0.06, 'waiting': 0.0003, 'turnaround': 0.1204}
+{'method': 'Monitor', 'process': 'P3', 'fcfs_order': 3, 'burst': 0.06, 'waiting': 0.0005, 'turnaround': 0.1806}
+{'method': 'Monitor', 'process': 'P4', 'fcfs_order': 4, 'burst': 0.06, 'waiting': 0.0008, 'turnaround': 0.2409}

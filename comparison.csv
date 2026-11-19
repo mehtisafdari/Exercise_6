@@ -1,0 +1,17 @@
+method,process,fcfs_order,burst,waiting,turnaround
+Dekker,P1,1,0.06,0,0.0601
+Dekker,P2,2,0.06,0.0004,0.1205
+Dekker,P3,3,0.06,0.0006,0.1807
+Dekker,P4,4,0.06,0.0008,0.241
+Peterson,P1,1,0.06,0,0.0601
+Peterson,P2,2,0.06,0.0003,0.1204
+Peterson,P3,3,0.06,0.0005,0.1806
+Peterson,P4,4,0.06,0.0008,0.2409
+Semaphore,P1,1,0.06,0,0.0602
+Semaphore,P2,2,0.06,0.0004,0.1205
+Semaphore,P3,3,0.06,0.0007,0.1808
+Semaphore,P4,4,0.06,0.0009,0.241
+Monitor,P1,1,0.06,0,0.0601
+Monitor,P2,2,0.06,0.0003,0.1204
+Monitor,P3,3,0.06,0.0005,0.1806
+Monitor,P4,4,0.06,0.0008,0.2409
